@@ -1,6 +1,7 @@
 # Site
-title:              Seryun Cheon
-bio:                'Seryun's IT Blog.'
+name:               "Seryun Cheon" 
+title:              "Seryun Cheon"
+bio:                "Seryun's IT Blog."
 description:        "Seryun's IT Blog"
 reading_time:       true
 words_per_minute:   200
