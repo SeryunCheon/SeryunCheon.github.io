@@ -2,7 +2,7 @@
 name:               SeryunCheon
 title:              Seryun Cheon
 bio:                'Seryun's IT Blog'
-description:        "천세륜의 개발 블로그입니다."
+description:        "Seryun's IT Blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -41,7 +41,7 @@ disqus_shortname:  SeryunCheon
 email:              cheonseryun@gmail.com
 twitter:            username
 facebook:           username
-github-url:         SeryunCheon
+github-url:         https://github.com/SeryunCheon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
