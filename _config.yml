@@ -16,7 +16,7 @@ defaults:
   -
     scope:
       path: "_posts" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
-      type: "posts" # 이전 Jekyll 2.2 에서는 `post`
+      type: "post" # 이전 Jekyll 2.2 에서는 `post`
     values:
       layout: post
       comments: true
