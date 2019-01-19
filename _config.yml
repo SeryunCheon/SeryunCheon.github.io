@@ -27,7 +27,8 @@ sass:
   style:            compressed
 
 # Disqus Comments
-disqus_shortname: SeryunCheon
+disqus: True
+disqus_shortname: seryun-blog
 
 # Social
 # if you don't have any of social below, comment the line.
