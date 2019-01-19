@@ -1,7 +1,7 @@
 # Site
 name:               "Seryun Cheon" 
 title:              "Seryun Cheon"
-bio:                "Seryun's IT Blog."
+bio:                "천세륜의 개발 블로그"
 description:        "Seryun's IT Blog"
 reading_time:       true
 words_per_minute:   200
@@ -15,10 +15,12 @@ url:                https://seryuncheon.github.io/
 defaults:
   -
     scope:
-      path: "" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
+      path: "_posts" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
       type: "posts" # 이전 Jekyll 2.2 에서는 `post`
     values:
+      layout: post
       comments: true
+      share: true
       
 # Jekyll
 permalink:          /:title/
