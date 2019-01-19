@@ -26,8 +26,9 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:  SeryunCheon
+# Disqus Comments
+disqus: True
+disqus_shortname: SeryunCheon
 
 # Social
 # if you don't have any of social below, comment the line.
