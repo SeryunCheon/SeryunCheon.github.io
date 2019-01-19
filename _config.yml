@@ -11,17 +11,16 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://seryuncheon.github.io/
 
-#2019.01.17에 추가함. 모든 "포스트"타입에 댓글 추가하기 위해.
 
-#defaults:
-#  -
-#    scope:
- #     path: "_posts" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
- #     type: "post" # 이전 Jekyll 2.2 에서는 `post`
-  #  values:
-#      layout: post
- #     comments: true
- #     share: true
+#2019.01.17에 추가함. 모든 "포스트"타입에 댓글 추가하기 위해.
+defaults:
+  -
+    scope:
+      path: "" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
+      type: "posts" # 이전 Jekyll 2.2 에서는 `post`
+    values:
+      comments: true
+
     
  
 # Jekyll
