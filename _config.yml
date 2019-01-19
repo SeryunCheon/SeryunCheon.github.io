@@ -18,9 +18,9 @@ defaults:
       path: "_posts" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
       type: "post" # 이전 Jekyll 2.2 에서는 `post`
     values:
-      layout: post
+#      layout: post
       comments: true
-      share: true
+ #     share: true
       
 # Jekyll
 permalink:          /:title/
