@@ -31,7 +31,7 @@ comments: true
 
 원래 이렇게 하면 정상적으로 푸쉬가 되는게 정상이나 아래와같은 문구, 이미지가 떴다.
 
-![푸쉬거부메시지](./assets/img/githubError.JPG)
+![githuberror](https://user-images.githubusercontent.com/30023840/51634455-9f05f000-1f97-11e9-96b5-8b7f034392bd.JPG)
  ! [rejected]        master -> master (fetch first)
 이 문구가 뜬다.
 
@@ -44,7 +44,7 @@ comments: true
 
 그럼 아래와 같이 정상적으로 Push성공!
 
-![푸쉬거부메시지](./assets/img/githubError2.JPG)
+![githuberror2](https://user-images.githubusercontent.com/30023840/51634483-afb66600-1f97-11e9-8d48-295dc4b9d6ad.JPG)
 
 
 
