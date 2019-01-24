@@ -65,19 +65,13 @@ error: failed to push some refs to 'git@github.com:zapnaa/abcappp.git'
 답변으로제시한 방법들
 
 1. 
-git init
-git add README.md
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/userName/repoName.git
+git init<br>git add README.md<br>git add .<br>git commit -m "first commit"<br>git remote add origin https://github.com/userName/repoName.git
 여기까진 동일하게 하돼, 아래의 명령어를 입력할것.
 
 		**git push --force origin master**
 		(나도 이방법으로 다시한번 해결했다.)
 
-2. **git push origin master --force**
-or short of force -f
-**git push origin master -f**
+2. **git push origin master --force**<br>or short of force -f<br>**git push origin master -f**
 
 
 출처: https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first
