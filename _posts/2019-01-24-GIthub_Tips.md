@@ -47,5 +47,37 @@ comments: true
 ![githuberror2](https://user-images.githubusercontent.com/30023840/51634483-afb66600-1f97-11e9-8d48-295dc4b9d6ad.JPG)
 
 
+### ++또 다른 방법이있다.++
+
+스택오버 플로우에 나와 같은 현상을 겪은 유저가 글을 올렸는데 
+좋은 답변들이 달렸기에 공유한다.
 
 
+**Ask Question**
+Is there a good way to explain how to resolve "! [rejected]  master -> master (fetch first)'" in Git?
+
+When I use this command  $ git push origin master it display an error message.
+
+! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:zapnaa/abcappp.git'
+
+
+답변으로제시한 방법들
+
+1. 
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/userName/repoName.git
+여기까진 동일하게 하돼, 아래의 명령어를 입력할것.
+
+		**git push --force origin master**
+		(나도 이방법으로 다시한번 해결했다.)
+
+2. **git push origin master --force**
+or short of force -f
+**git push origin master -f**
+
+
+출처: https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first
