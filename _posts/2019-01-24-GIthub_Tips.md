@@ -9,6 +9,7 @@ tag:
 - sample
 - test
 - jekyll
+feature: https://user-images.githubusercontent.com/30023840/51634455-9f05f000-1f97-11e9-96b5-8b7f034392bd.JPG
 comments: true
 ---
 # 깃허브 저장소도 생성하고, 올바른 스텝을 밟았는데?
