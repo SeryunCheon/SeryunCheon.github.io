@@ -9,5 +9,4 @@ tag:
 - mvc
 comments: false
 ---
-ddd
- trial
+ 도서관리 게시판
