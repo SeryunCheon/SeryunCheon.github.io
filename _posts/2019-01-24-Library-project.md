@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title:  "📖📚LibraryProject"
-date:   2018-05-30
+date:   2019-01-24
 excerpt: "📖📚JSP Servlet MVC패턴적용한 도서관리게시판"
 project: true
 tag:
