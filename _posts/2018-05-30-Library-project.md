@@ -9,4 +9,4 @@ tag:
 - mvc
 comments: false
 ---
- 도서관리 게시판
+ 도서관리 게시판입니다.
