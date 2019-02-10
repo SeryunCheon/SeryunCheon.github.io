@@ -10,7 +10,12 @@ tag:
 feature: https://user-images.githubusercontent.com/30023840/51997719-9d3dae80-24fa-11e9-8eb8-cf0d53b79536.PNG
 comments: false
 ---
+## 📖Library Project:
+📖📚 jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
  ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
-)
- 도서관리 게시판입니다.
+ 
+*자세한 설명은 꼭꼭꼭 아래의 링크를 참조하세요!
+- 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+- Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
+
