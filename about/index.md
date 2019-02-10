@@ -18,35 +18,37 @@ comments: false
 `#java` `#RESTfulAPI` `#SpringFrameWork` `#Javascript` `#CSS` `#HTML` `#git` `#github`
 </div>
 
+
 |            |                              |
 | :--------: | ---------------------------- |
-| **GitHub** | https://github.com/SeryunCheon/ |
-| **E-mail** | cheonseryun@gmail.com           |
+| **GitHub** | https://github.com/SeryunCheon/  |
+| **E-mail** | cheonseryun@gmail.com            |
 |            |                              |
 
 ---
-# 🎓학력사항 & 자격증 
+
+# 🎓 학력사항 & 자격증 
 - 한국항공대학교 경영학과 졸업('16)
 - 어학: TOEIC 970(18'), OPIC Advanced Low(18')
-<br><br>
+
 ---
 
 
-# 👩‍💻프로그래밍 교육
+# 👩‍💻 프로그래밍 교육
 
 ##비트캠프 종로학원
+
 |            |                    |
 | ---------: | ------------------ |
-| **period** | 18.03 ~ 18.09      |
-| **major**  | 스마트문화웹앱콘텐츠제작과정 |
+| **period** |18.03 ~ 18.09|
+| **major**  |  스마트문화웹앱콘텐츠제작과정|
 | **status** | 수료                 |
-|            |                              |
+|            |                    |
 
 
-
-<br><br>
 ---
-# 🖥️Projects
+# 🖥️ Projects
+- - -
 
 ## 🐈🐕🐈🐇 펫스트프렌즈(PetstFriends)
 스프링MVC기반 부트스트랩을적용한 반려동물종합 웹앱커뮤니티 입니다.
@@ -67,7 +69,7 @@ comments: false
 --반려동물 양육시 필요한 기본적인 양질의 정보를 제공하며, 반려동물과 함께 공존하여 유대감을 쌓을 수 있는 장소정보을 제공하고, 또한 거주 지역을 기반으로 반려동물의 주인들이 서로 친목을 다질 수 있는 웹 환경을 제공합니다.
 
 
-<br><br>
+
 - - -
 
 ## 🌿🗺️ The Basic Board 회원관리 게시판
@@ -117,10 +119,12 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 <br><br>
 - - -
 
-## 📖Library Project:
-📖📚 jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
+## 📖📚 Library Project:
+ jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997719-9d3dae80-24fa-11e9-8eb8-cf0d53b79536.PNG)
+
+
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
 
 *자세한 설명은 꼭꼭꼭 아래의 링크를 참조하세요!
@@ -133,7 +137,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 # Skills
 
-> java, mysql, Spring Framework, apache tomcat, maven HTML5/CSS3/JavaScript(ES6+),Bootstrap, git, github, git bash
+-  java, mysql, Spring Framework, apache tomcat, maven HTML5/CSS3/JavaScript(ES6+),Bootstrap, git, github, git bash
 
 
 ---
@@ -143,6 +147,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - github: [https://github.com/SeryunCheon](https://github.com/SeryunCheon)
 - blog: [https://seryuncheon.github.io/](https://seryuncheon.github.io//)
 - instagram: [https://www.instagram.com/sr_cheon/](https://www.instagram.com/sr_cheon/)
+
+- - -
 
 
 # 👉그 외 (개인적인 다양한 삶의 흔적 🌎)
@@ -155,27 +161,25 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - 2010~이디야, 투썸플레이스, 브래드웍스, 캐나다 현지카페 및 다수의 카페에서 바리스타 아르바이트.
 
-- 뿐만 아니라 헬스장, 워터파크, 학교 강의지원실 등 장소를가리지 않는 아르바이트 경험
+- 뿐만 아니라 헬스장, 워터파크, 학교 강의지원실 등 다양한 아르바이트 경험으로 입증 할 수 있는 사교성
 
 - 2013-14'캐나다 벤쿠버의 Thierry에서 1년간 워킹홀리데이(그만둘 때 쯤엔 아침쉬프트의 헤드 바리스타)
-![2014canada](https://user-images.githubusercontent.com/30023840/52528458-6fd6d900-2d22-11e9-8868-d6c0c046af71.JPG)
 
--2015' 직접기획한 기획서와 상품으로 핀란드 헬싱키 플리마켓 참여(최종 2등 창조상 수상by동원 글로벌 익스플로러)
-![2015dongwon](https://user-images.githubusercontent.com/30023840/52528456-6f3e4280-2d22-11e9-9e6d-b4a29496abe1.JPG)
+- 2015' 직접기획한 기획서와 상품으로 핀란드 헬싱키 플리마켓 참여(최종 2등 창조상 수상by동원 글로벌 익스플로러)
 
--2016' Merchandising을 배우기위해 MD양성과정을 수료( 최우수기획서 수상by여성경제인 협회)
-![2016md](https://user-images.githubusercontent.com/30023840/52528459-6fd6d900-2d22-11e9-95b1-4c3d10a08ef0.JPG)
+- 2016' Merchandising을 배우기위해 MD양성과정을 수료( 최우수기획서 수상by여성경제인 협회)
 
--2012-13'마케팅을 배우고 싶어 참여한 대외활동에서 소정의 성과를 거둠(3번의 프로젝트 수상, 수료시 최우수팀상 수상 by 코웨이 그린메이커)
-![2013grren](https://user-images.githubusercontent.com/30023840/52528457-6f3e4280-2d22-11e9-9844-de9481492b9d.JPG)
+- 2012-13'마케팅을 배우고 싶어 참여한 대외활동에서 소정의 성과를 거둠(3번의 프로젝트 수상, 수료시 최우수팀상 수상 by 코웨이 그린메이커)
 
-
-😜더욱 자세히 알고싶으면 아래의 링크를 클릭하세요 😊
+- 더욱 자세히 알고싶으면 아래의 링크를 클릭하세요:
 <a href="https://drive.google.com/open?id=1fSWnZgDbUmFb86MgGNiiLX6G8TkqOhiI/">개발자가되기전의 천세륜 포트폴리오 👍</a>
 
 
 </div>
 </details>
+
+- - -
+
 ## 연락하기📞
 Email: cheonseryun@gmail.com
 Phone: 010-2551-5401
@@ -184,6 +188,6 @@ Phone: 010-2551-5401
 <br><br><br>
 <div align="center">
 
-_Thank you_
+Thank you
 
 </div>
