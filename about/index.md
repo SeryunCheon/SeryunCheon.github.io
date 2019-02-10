@@ -96,6 +96,20 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - - -
 
+
+
+## 📖📚 Library Project:
+ jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
+
+- 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+
+- Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
+
+
+![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
+
+- - -
+
 ## 🎮🐍🐛 SnakeGame2018:
 두명의 사용자가 대련가능한 지렁이잡기 게임(HTML5 GAME)
 
@@ -115,17 +129,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - Canvas를 사용해보았습니다.
 
 
-- - -
 
-## 📖📚 Library Project:
- jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
-
-- 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
-
-- Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
-
-
-![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
 
 
 
