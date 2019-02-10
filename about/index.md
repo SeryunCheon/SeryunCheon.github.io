@@ -36,7 +36,7 @@ comments: false
 
 # 👩‍💻 프로그래밍 교육
 
-##비트캠프 종로학원
+## 비트캠프 종로학원
 
 |            |                    |
 | ---------: | ------------------ |
@@ -55,9 +55,7 @@ comments: false
 
 ![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
 
-
-*자세한 설명은 꼭 아래의 링크를 참조하세요!
-- **==프로젝트설명 포트폴리오==**: [https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg](https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg)
+- 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg](https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg)
 - Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
 - Stack: 
   - backend: Spring,Eclipse,maven, Mysql, mybatis, apache Tomcat
@@ -79,17 +77,6 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 ![spring1](https://user-images.githubusercontent.com/30023840/52528869-03f96e00-2d2c-11e9-9af3-9fcf386de6cc.jpg)
 
--- 회원관리가 가능한 스프링mvc 기반의 게시판입니다. 기본적인 게시글의 CRUD가 가능하고, Member는 Student의 정보를 수정하거나 삭제 가능합니다.
-
-
-![spring2](https://user-images.githubusercontent.com/30023840/52528868-0360d780-2d2c-11e9-9bac-94a04deb5325.jpg)
-
---MultipartResolver를 사용하여 이미지의 기본적인 업로드가 가능합니다.
---동영상 삽입 기능을 적용했습니다.
-
-![12345678](https://user-images.githubusercontent.com/30023840/52528891-5b97d980-2d2c-11e9-8359-233bef568f7a.JPG)
-
--- MVC Interceptor를 적용하여 로그인하지 않은 회원은 접근이 불가하게 처리해두었습니다.
 
 ![11](https://user-images.githubusercontent.com/30023840/51996460-1f78a380-24f8-11e9-9228-f6928599b3bc.jpg)
 
@@ -105,31 +92,35 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 ## 🎮🐍🐛 SnakeGame2018:
 두명의 사용자가 대련가능한 지렁이잡기 게임(HTML5 GAME)
-
+- 프로젝트설명: [https://seryuncheon.github.io/SnakeGame2018/](https://seryuncheon.github.io/SnakeGame2018/)
+- 
+- Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
+- Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
+- Stack: javascript, html, css, canvas, html5
 ![worm1](https://user-images.githubusercontent.com/30023840/51994559-65336d00-24f4-11e9-8028-016363a0dbf6.jpg)
 
 ![worm](https://user-images.githubusercontent.com/30023840/52529025-de6d6400-2d2d-11e9-8768-edd077f8e78d.jpg)
 
---중요알고리즘은 다른 팀원두명이 작업해주었고, 쉽고 간단한 알고리즘 부분만 제가 구현했습니다.
---이게임의 전체 디자인을 담당 및 작업했습니다.
---Canvas를 사용해보았습니다.
-- Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
-- Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
-- Stack: javascript, html, css, canvas, html5
-<br><br>
+- 중요알고리즘은 다른 팀원두명이 작업해주었고, 쉽고 간단한 알고리즘 부분만 제가 구현했습니다.
+- 이게임의 전체 디자인을 담당 및 작업했습니다.
+- Canvas를 사용해보았습니다.
+
+
 - - -
 
 ## 📖📚 Library Project:
  jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
+*자세한 설명은 꼭꼭꼭 아래의 링크를 클릭하세요!
+- **==프로젝트설명 포트폴리오==**: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+- Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
+- 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997719-9d3dae80-24fa-11e9-8eb8-cf0d53b79536.PNG)
 
 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
 
-*자세한 설명은 꼭꼭꼭 아래의 링크를 참조하세요!
-- **==프로젝트설명 포트폴리오==**: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
-- Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
+
 
 
 ---
@@ -156,8 +147,12 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 <summary>궁금하시면 CLICK!</summary>
 <div markdown="1">
 <div align="center">
-# 직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자
+### 직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자
 </div>
+
+<p align="center">더욱 자세히 알고싶으면 아래의 링크를 클릭하세요:
+<a href="https://drive.google.com/open?id=1fSWnZgDbUmFb86MgGNiiLX6G8TkqOhiI/">개발자가되기전의 천세륜 포트폴리오 👍</a></p>
+
 
 - 2010~이디야, 투썸플레이스, 브래드웍스, 캐나다 현지카페 및 다수의 카페에서 바리스타 아르바이트.
 
@@ -171,8 +166,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - 2012-13'마케팅을 배우고 싶어 참여한 대외활동에서 소정의 성과를 거둠(3번의 프로젝트 수상, 수료시 최우수팀상 수상 by 코웨이 그린메이커)
 
-- 더욱 자세히 알고싶으면 아래의 링크를 클릭하세요:
-<a href="https://drive.google.com/open?id=1fSWnZgDbUmFb86MgGNiiLX6G8TkqOhiI/">개발자가되기전의 천세륜 포트폴리오 👍</a>
+
 
 
 </div>
