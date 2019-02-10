@@ -152,7 +152,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 <summary>궁금하시면 CLICK!</summary>
 <div markdown="1">
 <div align="center">
-### 직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자
+<h1 align="center">직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자</h1>
+
 </div>
 
 <p align="center">더욱 자세히 알고싶으면 아래의 링크를 클릭하세요:
