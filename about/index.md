@@ -53,8 +53,6 @@ comments: false
 ## 🐈🐕🐈🐇 펫스트프렌즈(PetstFriends)
 스프링MVC기반 부트스트랩을적용한 반려동물종합 웹앱커뮤니티 입니다.
 
-![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
-
 - 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg](https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg)
 
 - Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
@@ -63,6 +61,10 @@ comments: false
   - backend: Spring,Eclipse,maven, Mysql, mybatis, apache Tomcat
   - frontend: BootStrap,FontAswome,jQuery,AJAX,JSon,
   - APIs: NaverMap, DaumMap, Naver Search, Sk Weather Planet, 도로명주소API
+
+![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
+
+
 
 --반려동물에 대한 정보를 기반으로하여 반려동물의 주인들이 상호 커뮤니케이션이 가능한 웹 어플리케이션입니다.
 
@@ -100,7 +102,6 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - 프로젝트설명: [https://seryuncheon.github.io/SnakeGame2018/](https://seryuncheon.github.io/SnakeGame2018/)
 
 - Repository: [https://github.com/SeryunCheon/SnakeGame2018](https://github.com/SeryunCheon/SnakeGame2018)
-](https://dambaesingo.github.io)
 
 - Stack: javascript, html, css, canvas, html5
 
@@ -119,7 +120,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 ## 📖📚 Library Project:
  jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
-- *프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+- 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+
 - Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
 
 

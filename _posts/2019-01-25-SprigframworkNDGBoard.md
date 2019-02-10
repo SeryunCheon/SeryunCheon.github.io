@@ -18,10 +18,13 @@ comments: false
 
 ## 🌿The Basic Board 회원관리 게시판
 🌿🗺️ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
+
 - 프로젝트설명: [https://seryuncheon.github.io//SprigframworkNDGBoard/](https://seryuncheon.github.io//SprigframworkNDGBoard/)
+
 - Repository: [https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs](https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs)
 
 ![spring1](https://user-images.githubusercontent.com/30023840/52528869-03f96e00-2d2c-11e9-9af3-9fcf386de6cc.jpg)
+
 -- 회원관리가 가능한 스프링mvc 기반의 게시판입니다. 기본적인 게시글의 CRUD가 가능하고, Member는 Student의 정보를 수정하거나 삭제 가능합니다.
 
 
