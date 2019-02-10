@@ -182,9 +182,9 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - - -
 
-## 연락하기📞
-Email: cheonseryun@gmail.com
-Phone: 010-2551-5401
+# 연락하기📞
+- Email: cheonseryun@gmail.com
+- Phone: 010-2551-5401
 
 
 <br><br><br>
