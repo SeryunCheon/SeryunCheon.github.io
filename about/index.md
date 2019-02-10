@@ -10,8 +10,9 @@ comments: false
   <img width="200" src="https://user-images.githubusercontent.com/30023840/52528714-45881a00-2d28-11e9-94b2-0e00fac507cc.JPG">
 </p>
 
-## 천세륜
+
 <div align="center">
+ <h1 align="center">천세륜</h1>
 <p align="center">안녕하세요, 신입 개발자 천세륜입니다.</p>
 
 `#java` `#RESTfulAPI` `#SpringFrameWork` `#Javascript` `#CSS` `#HTML` `#git` `#github`
@@ -24,29 +25,30 @@ comments: false
 |            |                              |
 
 ---
-## 🎓학력사항 & 자격증 
+# 🎓학력사항 & 자격증 
 - 한국항공대학교 경영학과 졸업('16)
 - 어학: TOEIC 970(18'), OPIC Advanced Low(18')
-
+<br><br>
 ---
 
 
-## 👩‍💻프로그래밍 교육
+# 👩‍💻프로그래밍 교육
 
-###비트캠프 종로학원
+##비트캠프 종로학원
 |            |                    |
 | ---------: | ------------------ |
 | **period** | 18.03 ~ 18.09      |
 | **major**  | 스마트문화웹앱콘텐츠제작과정 |
 | **status** | 수료                 |
+|            |                              |
 
 
 
-
+<br><br>
 ---
-## 🖥️Projects
+# 🖥️Projects
 
-### 🐈🐕🐈🐇 펫스트프렌즈(PetstFriends)
+## 🐈🐕🐈🐇 펫스트프렌즈(PetstFriends)
 스프링MVC기반 부트스트랩을적용한 반려동물종합 웹앱커뮤니티 입니다.
 
 ![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
@@ -65,10 +67,10 @@ comments: false
 --반려동물 양육시 필요한 기본적인 양질의 정보를 제공하며, 반려동물과 함께 공존하여 유대감을 쌓을 수 있는 장소정보을 제공하고, 또한 거주 지역을 기반으로 반려동물의 주인들이 서로 친목을 다질 수 있는 웹 환경을 제공합니다.
 
 
-
+<br><br>
 - - -
 
-### 🌿🗺️ The Basic Board 회원관리 게시판
+## 🌿🗺️ The Basic Board 회원관리 게시판
 Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - 프로젝트설명: [https://seryuncheon.github.io//SprigframworkNDGBoard/](https://seryuncheon.github.io//SprigframworkNDGBoard/)
 - Repository: [https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs](https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs)
@@ -99,8 +101,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - - -
 
-### 🎮🐍🐛 SnakeGame2018:
-🚬🚫 두명의 사용자가 대련가능한 지렁이잡기 게임(HTML5 GAME)
+## 🎮🐍🐛 SnakeGame2018:
+두명의 사용자가 대련가능한 지렁이잡기 게임(HTML5 GAME)
 
 ![worm1](https://user-images.githubusercontent.com/30023840/51994559-65336d00-24f4-11e9-8028-016363a0dbf6.jpg)
 
@@ -112,10 +114,10 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
 - Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
 - Stack: javascript, html, css, canvas, html5
-
+<br><br>
 - - -
 
-### 📖Library Project:
+## 📖Library Project:
 📖📚 jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997719-9d3dae80-24fa-11e9-8eb8-cf0d53b79536.PNG)
@@ -129,26 +131,30 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 ---
 
 
-## Skills
+# Skills
 
 > java, mysql, Spring Framework, apache tomcat, maven HTML5/CSS3/JavaScript(ES6+),Bootstrap, git, github, git bash
 
 
 ---
 
-## My Links 🔗
+# My Links 🔗
 
 - github: [https://github.com/SeryunCheon](https://github.com/SeryunCheon)
 - blog: [https://seryuncheon.github.io/](https://seryuncheon.github.io//)
 - instagram: [https://www.instagram.com/sr_cheon/](https://www.instagram.com/sr_cheon/)
 
 
-## 👉그 외 (개인적인 다양한 삶의 흔적 🌎)
+# 👉그 외 (개인적인 다양한 삶의 흔적 🌎)
 <details>
 <summary>궁금하시면 CLICK!</summary>
 <div markdown="1">
-<div align="center">직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자</div>
+<div align="center">
+# 직접 경험하고, 공부하고, 탐험하기 좋아하는 전형적인 ENFP성격의 소유자
+</div>
+
 - 2010~이디야, 투썸플레이스, 브래드웍스, 캐나다 현지카페 및 다수의 카페에서 바리스타 아르바이트.
+
 - 뿐만 아니라 헬스장, 워터파크, 학교 강의지원실 등 장소를가리지 않는 아르바이트 경험
 
 - 2013-14'캐나다 벤쿠버의 Thierry에서 1년간 워킹홀리데이(그만둘 때 쯤엔 아침쉬프트의 헤드 바리스타)
@@ -174,6 +180,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 Email: cheonseryun@gmail.com
 Phone: 010-2551-5401
 
+
+<br><br><br>
 <div align="center">
 
 _Thank you_
