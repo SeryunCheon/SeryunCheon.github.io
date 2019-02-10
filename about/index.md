@@ -56,8 +56,10 @@ comments: false
 ![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
 
 - 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg](https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg)
+
 - Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
-- Stack: 
+
+- Stack:
   - backend: Spring,Eclipse,maven, Mysql, mybatis, apache Tomcat
   - frontend: BootStrap,FontAswome,jQuery,AJAX,JSon,
   - APIs: NaverMap, DaumMap, Naver Search, Sk Weather Planet, 도로명주소API
@@ -72,7 +74,9 @@ comments: false
 
 ## 🌿🗺️ The Basic Board 회원관리 게시판
 Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
+
 - 프로젝트설명: [https://seryuncheon.github.io//SprigframworkNDGBoard/](https://seryuncheon.github.io//SprigframworkNDGBoard/)
+
 - Repository: [https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs](https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs)
 
 ![spring1](https://user-images.githubusercontent.com/30023840/52528869-03f96e00-2d2c-11e9-9af3-9fcf386de6cc.jpg)
@@ -92,11 +96,15 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 ## 🎮🐍🐛 SnakeGame2018:
 두명의 사용자가 대련가능한 지렁이잡기 게임(HTML5 GAME)
+
 - 프로젝트설명: [https://seryuncheon.github.io/SnakeGame2018/](https://seryuncheon.github.io/SnakeGame2018/)
-- 
-- Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
-- Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
+
+- Repository: [https://github.com/SeryunCheon/SnakeGame2018](https://github.com/SeryunCheon/SnakeGame2018)
+](https://dambaesingo.github.io)
+
 - Stack: javascript, html, css, canvas, html5
+
+
 ![worm1](https://user-images.githubusercontent.com/30023840/51994559-65336d00-24f4-11e9-8028-016363a0dbf6.jpg)
 
 ![worm](https://user-images.githubusercontent.com/30023840/52529025-de6d6400-2d2d-11e9-8768-edd077f8e78d.jpg)
@@ -111,11 +119,8 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 ## 📖📚 Library Project:
  jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
-*자세한 설명은 꼭꼭꼭 아래의 링크를 클릭하세요!
-- **==프로젝트설명 포트폴리오==**: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
-- Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
-- 
-![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997719-9d3dae80-24fa-11e9-8eb8-cf0d53b79536.PNG)
+- *프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
+- Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
 
 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
