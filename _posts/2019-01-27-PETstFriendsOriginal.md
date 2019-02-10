@@ -21,6 +21,12 @@ comments: false
 ## Projects
 ![petstfriendscommu](https://user-images.githubusercontent.com/30023840/51994071-631cde80-24f3-11e9-9667-5c47b3b476c9.png)
 ### 🐈🐕🐈🐇 반려동물종합커뮤니티, PETstFriends:
+
+--반려동물에 대한 정보를 기반으로하여 반려동물의 주인들이 상호 커뮤니케이션이 가능한 웹 어플리케이션입니다.
+
+--반려동물 양육시 필요한 기본적인 양질의 정보를 제공하며, 반려동물과 함께 공존하여 유대감을 쌓을 수 있는 장소정보을 제공하고, 또한 거주 지역을 기반으로 반려동물의 주인들이 서로 친목을 다질 수 있는 웹 환경을 제공합니다.
+
+
 자세한 설명은 꼭 아래의 링크를 참조하세요!
 - 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg](https://drive.google.com/open?id=1hp2EOCfNVLy6PheW-PN0uHGSAY14lqDg)
 -![petpo](https://user-images.githubusercontent.com/30023840/52528201-ba088c00-2d1b-11e9-9e31-8ce945a506d8.JPG)

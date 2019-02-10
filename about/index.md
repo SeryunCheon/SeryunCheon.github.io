@@ -8,7 +8,7 @@ comments: false
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/30023840/52528714-45881a00-2d28-11e9-94b2-0e00fac507cc.JPG">
-  <h1 align="center">이력서</h1>
+
 ## 천세륜
 <div align="center">
 안녕하세요, 신입 개발자 천세륜입니다.
