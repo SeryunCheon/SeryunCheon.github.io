@@ -28,8 +28,8 @@ comments: false
 ---
 
 # 🎓 학력사항 & 자격증 
-- 한국항공대학교 경영학과 졸업('16)
-- 어학: TOEIC 970(18'), OPIC Advanced Low(18')
+- 한국항공대학교 경영학과 졸업(2016.08 졸업)
+- 어학: TOEIC 970(2018취득), OPIC Advanced Low(2018취득)
 
 ---
 
@@ -163,12 +163,12 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 </div>
 
 <p align="center">더욱 자세히 알고싶으면 아래의 링크를 클릭하세요:
-<a href="https://drive.google.com/open?id=1fSWnZgDbUmFb86MgGNiiLX6G8TkqOhiI/">개발자가되기전의 천세륜 포트폴리오 👍</a></p>
+<a href="https://drive.google.com/open?id=1fSWnZgDbUmFb86MgGNiiLX6G8TkqOhiI">개발자가되기전의 천세륜 포트폴리오 👍</a></p>
 
 
 - 2010~이디야, 투썸플레이스, 브래드웍스, 캐나다 현지카페 및 다수의 카페에서 바리스타 아르바이트.
 
-- 뿐만 아니라 헬스장, 워터파크, 학교 강의지원실 등 다양한 아르바이트 경험으로 입증 할 수 있는 사교성
+- 뿐만 아니라 헬스장, 워터파크, 학교 강의지원실 등 다양한 아르바이트 경험으로 입증 할 수 있는 근성, 책임감, 사교성, 협동성!
 
 - 2013-14'캐나다 벤쿠버의 Thierry에서 1년간 워킹홀리데이(그만둘 때 쯤엔 아침쉬프트의 헤드 바리스타)
 
