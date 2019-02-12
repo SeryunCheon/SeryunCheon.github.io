@@ -2,9 +2,6 @@
 #- title: Home
 #  url: https://seryuncheon.github.io
 
-- title: Blog
- url: /blog/
-
 - title: RESUME
   url: /about/
 
@@ -13,3 +10,6 @@
 
 - title: SeryunCheon
   url: https://github.com/SeryunCheon/
+
+- title: Blog
+  url: /blog/
