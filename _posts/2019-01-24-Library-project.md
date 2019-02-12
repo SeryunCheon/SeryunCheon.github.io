@@ -17,5 +17,5 @@ jsp serveltet을 사용하여 제작한 도서관리 프로젝트입니다.
 
 - 프로젝트설명 포트폴리오: [https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp](https://drive.google.com/open?id=1BYwFwKWmpP_p3CBjH8ayTIaGd4OTf2Fp)
 
-- Repository: [https://github.com/SeryunCheon/PETstFriendsOriginal](https://github.com/SeryunCheon/PETstFriendsOriginal)
+- Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
 
