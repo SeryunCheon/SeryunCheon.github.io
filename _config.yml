@@ -2,26 +2,27 @@
 name:               "Seryun Cheon" 
 title:              👩🏻‍💻 SeryunCheon_DevBlog
 bio:                "천세륜의 개발 블로그"
+location: 			"Seoul,Korea"
 description:        "Seryun's IT Blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/basic_photo.jpg' 
 background:         'assets/img/2019BG_3_1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             "ko"
 url:                https://seryuncheon.github.io/
-
+search:				true
+repository:			https://github.com/SeryunCheon/SeryunCheon.github.io
 
 #2019.01.17에 추가함. 모든 "포스트"타입에 댓글 추가하기 위해.
 defaults:
-  -
-    scope:
+  - scope:
       path: "_posts" # 이 빈 문자열은 프로젝트의 모든 파일을 의미함
     values:
       comments: true
+      share: true
 
-    
- 
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown

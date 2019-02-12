@@ -1,15 +1,15 @@
 # Site navigation links
-- title: Home
-  url: https://seryuncheon.github.io
+#- title: Home
+#  url: https://seryuncheon.github.io
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+# url: /blog/
+
+- title: RESUME
+  url: /about/
 
 - title: Projects
   url: /projects/
 
-- title: About
-  url: /about/
-
 - title: SeryunCheon
-  url: https://seryuncheon.github.io/
+  url: https://github.com/SeryunCheon/
