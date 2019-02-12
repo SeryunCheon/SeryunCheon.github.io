@@ -2,8 +2,8 @@
 #- title: Home
 #  url: https://seryuncheon.github.io
 
-#- title: Blog
-# url: /blog/
+- title: Blog
+ url: /blog/
 
 - title: RESUME
   url: /about/
