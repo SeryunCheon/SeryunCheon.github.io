@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "📖📚LibraryProject"
 date:   2019-01-24
