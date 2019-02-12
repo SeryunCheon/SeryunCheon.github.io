@@ -2,14 +2,16 @@
 #- title: Home
 #  url: https://seryuncheon.github.io
 
-- title: RESUME
+- title: RESUME(이력서)
   url: /about/
 
-- title: Projects
+- title: Projects(프로젝트)
   url: /projects/
+
+- title: 블로그
+  url: /blogs/
 
 - title: SeryunCheon
   url: https://github.com/SeryunCheon/
 
-- title: Blog
-  url: /blogs/
+
