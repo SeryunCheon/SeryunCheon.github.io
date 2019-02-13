@@ -44,7 +44,6 @@ comments: false
 |            |                    	   |
 
 ---
-<br>
 ## 🖥️ Projects
 - - -
 
