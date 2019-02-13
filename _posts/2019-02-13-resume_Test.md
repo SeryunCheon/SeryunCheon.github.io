@@ -117,7 +117,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - 중요알고리즘은 다른 팀원두명이 작업해주었고, 쉽고 간단한 알고리즘 부분만 제가 구현했습니다.
 - 이게임의 전체 디자인을 담당 및 작업했습니다.
 - Canvas를 사용해보았습니다.
-<br><br>
+<br>
 ---
 ## Skills
 
