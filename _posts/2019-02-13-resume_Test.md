@@ -65,7 +65,7 @@ comments: false
 --반려동물에 대한 정보를 기반으로하여 반려동물의 주인들이 상호 커뮤니케이션이 가능한 웹 어플리케이션입니다.
 
 --반려동물 양육시 필요한 기본적인 양질의 정보를 제공하며, 반려동물과 함께 공존하여 유대감을 쌓을 수 있는 장소정보을 제공하고, 또한 거주 지역을 기반으로 반려동물의 주인들이 서로 친목을 다질 수 있는 웹 환경을 제공합니다.
-
+<br><br>
 
 
 - - -
@@ -77,18 +77,17 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 
 - Repository: [https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs](https://github.com/SeryunCheon/SprigframworkWithNaver_Daum_GoolgleMap_APIs)
 
-![spring1](https://user-images.githubusercontent.com/30023840/52528869-03f96e00-2d2c-11e9-9af3-9fcf386de6cc.jpg)
-
-![11](https://user-images.githubusercontent.com/30023840/51996460-1f78a380-24f8-11e9-9228-f6928599b3bc.jpg)
-
--- 본격적인 메인 프로젝트를 하기전에 만들었던 작은 프로젝트였습니다. 수업시간에 배운 API쓰는법을 활용하여, 구글맵,다음맵,네이버맵으로 현위치를 나타낼수있게 만들어 보았습니다.
-
-
 - Stack:
   - APIs: Naver Map, Daum Map, Google Map
   - backend: Spring,Eclipse,maven, Mysql, mybatis, apache Tomcat
   - frontend:jQuery,AJAX,JSon
 
+![spring1](https://user-images.githubusercontent.com/30023840/52528869-03f96e00-2d2c-11e9-9af3-9fcf386de6cc.jpg)
+
+![11](https://user-images.githubusercontent.com/30023840/51996460-1f78a380-24f8-11e9-9228-f6928599b3bc.jpg)
+
+-- 본격적인 메인 프로젝트를 하기전에 만들었던 작은 프로젝트였습니다. 수업시간에 배운 API쓰는법을 활용하여, 구글맵,다음맵,네이버맵으로 현위치를 나타낼수있게 만들어 보았습니다.
+<br><br>
 - - -
 
 ### 📖📚 Library Project:
@@ -99,6 +98,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - Repository: [https://github.com/SeryunCheon/LibraryProject](https://github.com/SeryunCheon/LibraryProject)
 
 ![56 _bookstate_](https://user-images.githubusercontent.com/30023840/51997833-dece5980-24fa-11e9-9f03-b2c6cc8fc0aa.PNG)
+<br><br>
 
 - - -
 
@@ -118,7 +118,7 @@ Sprigframwork기반 게시판 With Naver, Daum, GoolgleMap APIs
 - 중요알고리즘은 다른 팀원두명이 작업해주었고, 쉽고 간단한 알고리즘 부분만 제가 구현했습니다.
 - 이게임의 전체 디자인을 담당 및 작업했습니다.
 - Canvas를 사용해보았습니다.
-
+<br><br>
 ---
 ## Skills
 
