@@ -35,59 +35,48 @@ Employee, dept Table이 아래와 같이 주어졌을시,
 <summary>정답(은 따로 없지만서도 제가 작성한 코드를 보고싶다면 클릭!)</summary>
 <div>
 
-1.
- - select e.empname, d.dname, d.dloc from employee e, dept d where e.deptno=d.deptno;
- - select empname,dname,dloc from employee, dept where employee.deptno=dept.deptno;
+1.<br>
+select e.empname, d.dname, d.dloc from employee e, dept d where e.deptno=d.deptno;<br>
+select empname,dname,dloc from employee, dept where employee.deptno=dept.deptno;<br>
 
 
-2.
- - select e.job, d.dloc from employee e, dept d where e.deptno=d.deptno && e.deptno=10;
-
- - select e.job, d.dloc from employee e join dept d using(deptno) where deptno=10;
-
- - select a.job, b.dloc from employee a join dept b using (deptno) where a.deptno = 10;
-
- - select e.job as '10번 부서에서 담당하는 모든업무', d.dloc as '지역명' 
-from employee e, dept d where e.deptno =10 && d.deptno = 10;
+2.<br>
+select e.job, d.dloc from employee e, dept d where e.deptno=d.deptno && e.deptno=10;<br>
+select e.job, d.dloc from employee e join dept d using(deptno) where deptno=10;<br>
+select a.job, b.dloc from employee a join dept b using (deptno) where a.deptno = 10;<br>
+ select e.job as '10번 부서에서 담당하는 모든업무', d.dloc as '지역명' from employee e, dept d where e.deptno =10 && d.deptno = 10;<br>
 
 
 
-3.
- - select e.empname as , d.dname as, d.dloc from employee e, dept d where e.deptno = d.deptno && comm is not null && comm <> 0;
+3.<br>
+select e.empname as , d.dname as, d.dloc from employee e, dept d where e.deptno = d.deptno && comm is not null && comm <> 0;<br>
 
- - select e.empname, d.dname,d.dloc from employee e join dept d using(deptno) where comm in not null && comm not in(0);
+select e.empname, d.dname,d.dloc from employee e join dept d using(deptno) where comm in not null && comm not in(0);<br>
 
- - select empname, dname, dloc from employee e join dept d using (deptno) where comm not in (0);
+select empname, dname, dloc from employee e join dept d using (deptno) where comm not in (0);<br>
 
--select a.empname, b.dname, b.dlocfrom employee a inner join dept b on a.deptno = b.deptno where a.comm is not null;
-
-
-4.
- - select e1.empname as 사원이름, e1.empno as 사원번호, e2.empname as 관리자이름, e1.mgr as 관리자번호 
-from employee e1, employee e2 where e1.mgr = e2.empno;
-
- - select a.empname, a.empno, b.empname as manager, a.mgr from employee a join employee b on a.mgr = b.empno;
-
-5.
-
-6.
- - select empname as 'ward보다 늦게 입사한 사원들', hiredate as '입사일' 
-from employee where hiredate >'1981-02-22';
-
- - select empname, hiredate
-from employee
-where hiredate > (select hiredate from employee where empname = 'WARD' ) ;
+select a.empname, b.dname, b.dlocfrom employee a inner join dept b on a.deptno = b.deptno where a.comm is not null;<br>
 
 
- - select e2.ename, e2.hiredate 
-from employee e1, employee e2 where (e1.ename like 'ward') and (e2.hiredate > e1.hiredate);
+4.<br>
+select e1.empname as 사원이름, e1.empno as 사원번호, e2.empname as 관리자이름, e1.mgr as 관리자번호 from employee e1, employee e2 where e1.mgr = e2.empno;<br>
+select a.empname, a.empno, b.empname as manager, a.mgr from employee a join employee b on a.mgr = b.empno;<br>
 
-7.
- - select e1.empname, e1.empno, e1.hiredate, d.dname, e2.empname as manager, e2.hiredate as manager_hiredate
-from employee e1, dept d, employee e2 
-where e1.mgr = e2.empno && e1.hiredate < e2.hiredate && e1.deptno=d.deptno;
 
- - select a.empname, a.empno, a.hiredate, c.dname, b.empname as manager, b.hiredate as manager_hiredate from employee a join employee b on a.mgr = b.empno join dept c on a.deptno = c.deptno where a.hiredate < b.hiredate;
+6.<br>
+select empname as 'ward보다 늦게 입사한 사원들', hiredate as '입사일' 
+from employee where hiredate >'1981-02-22';<br>
+
+select empname, hiredate
+from employee where hiredate > (select hiredate from employee where empname = 'WARD' ) ;<br>
+
+
+select e2.ename, e2.hiredate from employee e1, employee e2 where (e1.ename like 'ward') and (e2.hiredate > e1.hiredate);<br>
+
+7.<br>
+select e1.empname, e1.empno, e1.hiredate, d.dname, e2.empname as manager, e2.hiredate as manager_hiredate from employee e1, dept d, employee e2 where e1.mgr = e2.empno && e1.hiredate < e2.hiredate && e1.deptno=d.deptno; <br>
+
+select a.empname, a.empno, a.hiredate, c.dname, b.empname as manager, b.hiredate as manager_hiredate from employee a join employee b on a.mgr = b.empno join dept c on a.deptno = c.deptno where a.hiredate < b.hiredate; <br>
 
 </div>
 </details>
