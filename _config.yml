@@ -1,9 +1,9 @@
 ﻿# Site
 name:               "Seryun Cheon" 
-title:              👩🏻‍💻 SeryunCheon_DevBlog
-bio:                "천세륜의 개발 블로그"
+title:              👩🏻‍💻 Seryun Cheon
+bio:                "천세륜의 IT 개발 블로그"
 location: 			"Seoul,Korea"
-description:        "Seryun's IT Blog"
+description:        "Junior Web Developer"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/basic_photo.jpg'
