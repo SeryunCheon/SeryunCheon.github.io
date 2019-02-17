@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: All Blogs
+title: Random Thoughts and Things and Life
 excerpt: "A List of Blogs"
 comments: false
 ---

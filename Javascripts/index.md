@@ -1,6 +1,6 @@
 ---
 layout: javascripts
-title: All posts about Javascripts
+title: Javascripts문법에 관한 모든 것.
 excerpt: "A List of Javascripts posts"
 comments: false
 ---
