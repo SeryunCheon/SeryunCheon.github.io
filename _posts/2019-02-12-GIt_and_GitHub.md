@@ -1,5 +1,6 @@
 ---
 layout: post
+git: true
 title:  "Git과 GitHub"
 date:   2019-02-12
 excerpt: "당신이 Git과 GitHub를 활용하기 위해 필요한 그 모든 것에 대하여."
