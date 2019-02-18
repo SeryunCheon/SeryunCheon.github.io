@@ -14,7 +14,7 @@ comments: true
 ## 줌인터넷(Zum Internet) 온라인 코딩테스트 후기.
 - - -
 ![default](https://user-images.githubusercontent.com/30023840/52955165-5e02cf00-33cf-11e9-99d2-bc228d7ecb85.jpg)
-
+###### ~~(서합만으로 감사하니까 첨부해둔 기념 스샷)~~
 금번의 이스트소프트x이스트시큐리티x줌인터넷 통합 공채에서<br>
 줌인터넷의 웹 서비스 플랫폼 개발 직무에 지원했다.<br><br>
 
