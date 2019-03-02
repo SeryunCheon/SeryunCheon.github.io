@@ -62,6 +62,7 @@ comments: true
  -  sprimg 개발업체인 SpringSource가 직접 만들어 제공하는 이클립스의 확장판으로 최신 이클립스를 기반으로 주요한 spring지원 플러그인과 관련된 도구를 모아서 Spring개발에 최적화 되도록 만들어진 IDE이다.
 
 ### STS가 제공하는 기능
+---
 
 1. Bean클래스 이름 자동완성(완전,, 꿀기능 프젝 할때 왜 자동완성 되나 했더니 STS덕분이었구나...)<br>현재 프로젝트의 모든 Source와 라이브러리, JDK안의 모든 클래스중에서 첫 글자가 SDD로 시작하는 클래스를 자동으로 보여줌
 ![spring_2](https://user-images.githubusercontent.com/30023840/53681732-123a1900-3d31-11e9-95b4-4a886e1908e3.JPG)<br><br>
@@ -74,7 +75,7 @@ comments: true
 ![spring_4](https://user-images.githubusercontent.com/30023840/53681734-123a1900-3d31-11e9-8a4d-6f6746f78a01.JPG)<br><br>
 
 4. AOP적용 대상 표시<br> Spring IDE의 XML 설정파일 편집기를 이용하면 AOP의 적용대상을 손쉽게 확인할 수 있다.
-![spring_5](https://user-images.githubusercontent.com/30023840/53681735-12d2af80-3d31-11e9-958a-0f260e7536c8.JPG)
+![spring_5](https://user-images.githubusercontent.com/30023840/53681735-12d2af80-3d31-11e9-958a-0f260e7536c8.JPG)<br><br>
 
 # Maven과 Library 관리
 ---
