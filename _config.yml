@@ -13,7 +13,7 @@ locale:             "ko-KR"
 url:                https://seryuncheon.github.io/
 search:				true
 repository:			https://github.com/SeryunCheon/SeryunCheon.github.io
-goolge_fonts:		"nanumgothic"
+goolge_fonts:		"Nanum+Gothic:400,700"
 #2019.01.17에 추가함. 모든 "포스트"타입에 댓글 추가하기 위해.
 defaults:
   - scope:
