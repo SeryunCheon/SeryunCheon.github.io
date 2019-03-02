@@ -3,15 +3,18 @@ layout: post
 anotherLife: true
 title:  "더 콰이엇: 개인에게 무엇이 옳은 길인지 과감하게 시도해보는 삶을 사는 것 같아요"
 date:   2019-03-02
-excerpt: " \"본능으로는 가야 할 길을 다 알아요. 그렇지만 주변과 이 사회와 우리가 받은 교육이 그걸 가로막고 있어요. 그래서 물 흐르듯 살 수 없는 거예요. 당연히 저희도 장벽이 있어요. 그래도 그걸 어떻게든 극복하고 흐르려고 애쓰는게 저희 운명인 것 같아요." \"
-feature: https://post-phinf.pstatic.net/MjAxODA5MDdfMzEg/MDAxNTM2MzA5MjY1MDg2.z1aNP-BuQ1KGnPh9ws61nA3pmhuFCDA1_s9pldesXJUg.9LnuXcppL6BsdJOiY5kRQLllr3IDUZpOt-t0G7PyA1Qg.JPEG/1.jpg?type=w1200
+
+excerpt: " 본능으로는 가야 할 길을 다 알아요. 그렇지만 주변과 이 사회와 우리가 받은 교육이 그걸 가로막고 있어요. 그래서 물 흐르듯 살 수 없는 거예요. 당연히 저희도 장벽이 있어요. 그래도 그걸 어떻게든 극복하고 흐르려고 애쓰는게 저희 운명인 것 같아요."
+
+feature: https://post-phinf.pstatic.net/MjAxODA5MDdfMzEg/MDAxNTM2MzA5MjY1MDg2.z1aNP-BuQ1KGnPh9ws61nA3pmhuFCDA1_s9pldesXJUg.9LnuXcppL6BsdJOiY5kRQLllr3IDUZpOt-t0G7PyA1Qg.JPEG/1.jpg
+
 tag:
 - 더콰이엇
 - The Quiett
 comments: false
 ---
 
-[더콰이엇]: https://post-phinf.pstatic.net/MjAxODA5MDdfODAg/MDAxNTM2MzA5NDA1MjMx.NswneVAETrVm3N8gs413xopkP1OAR1RLmcCi4lo-CBgg.pKBPfjel8qjXqwQUDviqO3q9RecROodaqhbm5MyzwIsg.JPEG/4.jpg?type=w1200 "The Quiett"
+![더콰이엇](https://post-phinf.pstatic.net/MjAxODA5MDdfODAg/MDAxNTM2MzA5NDA1MjMx.NswneVAETrVm3N8gs413xopkP1OAR1RLmcCi4lo-CBgg.pKBPfjel8qjXqwQUDviqO3q9RecROodaqhbm5MyzwIsg.JPEG/4.jpg "The Quiett")
 
 ## 1.
 사람들은 두려움을 갖고 살잖아요. 물론 저도 두려움이 있어요. 하지만 원하는 게 있으면 전후좌우 의식하지 않고 밀어붙이는 편이고요. 통념을 의심하는 거죠. 예를 들면 대학에 꼭 가야 인생이 풀리는걸까? 저는 결국 대학에 입학했지만, 중퇴하고 음악을 하고 있고요. 막연한 두려움과 한계에 의문을 갖고 개인에게 무엇이 옳은 길인지 과감하게 시도해보는 삶을 사는 것 같아요.
