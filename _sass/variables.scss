@@ -27,13 +27,18 @@ $danger				 : #C64537;
 $info		         : #308cbc;
 
 //fonts
-$base-font-size: 14px !default;
-$bold-font-weight: bold !default;
-$font-family: 'Nanum Gothic', sans-serif;
-$font-family-main: 'Nanum Gothic', sans-serif;
+$font1               : 'Nanum Gothic', sans-serif;
+$font2               : 'Nanum Gothic', sans-serif;
+$alt-font            : sans-serif;
+$base-font-size		 : 14px !default;
+$bold-font-weight	 : bold !default;
+$font-family		 : 'Nanum Gothic', sans-serif;
+$font-family-main	 : 'Nanum Gothic', sans-serif;
 $font-family-headings: 'Nanum Gothic', sans-serif;
 $doc-font-size       : 14px;
 $doc-line-height     : 26;
+
+
 
 //media
 $small               : "only screen and (max-width: 30em)";
