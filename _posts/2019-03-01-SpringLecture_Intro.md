@@ -1,7 +1,7 @@
 ---
 layout: post
 springMVC: true
-title:  "프레임워크의 구성요소와 종류"
+title:  "스프링프레임워크의 구성요소와 종류"
 date:   2019-03-01
 excerpt: "약 6개월만에 다시 복습하는 스프링프레임워크 개념복습_IOC,AOP,디자인패턴 등"
 
