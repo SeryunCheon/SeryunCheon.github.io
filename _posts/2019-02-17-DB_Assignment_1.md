@@ -6,10 +6,9 @@ date:   2019-02-17
 excerpt: "select e1.empname as 사원이름, e1.empno as 사원번호, e2.empname as 관리자이름, e1.mgr as 관리자번호 from employee e1, employee e2 where e1.mgr = e2.empno;"
 
 tag:
-- sample
-- test
-- blog
-comments: false
+- DB
+- DataBase
+comments: true
 ---
 ## 데이터베이스 쿼리문 과제 1( 2018' 비트캠프 과정)
 - - -

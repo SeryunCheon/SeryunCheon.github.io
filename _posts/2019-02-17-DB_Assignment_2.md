@@ -7,10 +7,9 @@ excerpt: "커미션을 받을수 있는 자격이 되는 사원의 이름, 급�
 select empName, job, comm from employee where comm is not null and comm<>0;"
 
 tag:
-- sample
-- test
-- blog
-comments: false
+- DB
+- DataBase
+comments: true
 ---
 ## 데이터베이스 쿼리문 과제 2( 2018' 비트캠프 과정)
 - - -
