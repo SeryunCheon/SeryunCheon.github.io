@@ -18,10 +18,10 @@ comments: true
 ### 1.Sprign Framework?
 ---
  - Java엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크이다.
- - - 플리케이션프레임워크: 특정 계층, 분야에 국한되지 않고 전 영역을 포괄하는 범용적 프레임워크
- - - 경량급프레임워크 : 단순하 웹컨테이너에서도 엔터프라이즈 개발의 고급기술을 대부분 사용 가능
- - - Spring은 OpenSourde의 장점을 충분히 취하면서 동시에 OpenSource 제품의 단점과 한계를 잘 극복한다.
- - - Portable Service Abstraction, DI, AOP, POJO
+  - 어션프레임워크: 특정 계층, 분야에 국한되지 않고 전 영역을 포괄하는 범용적 프레임워크
+  - 경량급프레임워크 : 단순하 웹컨테이너에서도 엔터프라이즈 개발의 고급기술을 대부분 사용 가능
+  - Spring은 OpenSourde의 장점을 충분히 취하면서 동시에 OpenSource 제품의 단점과 한계를 잘 극복한다.
+  - Portable Service Abstraction, DI, AOP, POJO
 
 ###   2.SPring Framework 특징
 ---
@@ -38,18 +38,18 @@ comments: true
 ---
 ![스프링프레임워크기능요소](https://user-images.githubusercontent.com/30023840/53680170-e0b65300-3d1a-11e9-85ac-521c59e80b35.JPG)
  - core컨테이너:
- - - spring프레임워크의 기본기능을 제공한다.
- - - 이 모듈에 있는 BeanFactory는 스프링 기본 컨테이너이면서 스프링 BI의 기반이다.\
+  - spring프레임워크의 기본기능을 제공한다.
+  - 이 모듈에 있는 BeanFactory는 스프링 기본 컨테이너이면서 스프링 BI의 기반이다.\
  - AOP:
- - - AOP 모듈을 통해 Aspect 지향 프로그래밍을 지원한다.
- - - AOP모듈은 스프링 애플리케이션에서 Aspect를 개발할 수 있는 기반을 지원한다.
+  - AOP 모듈을 통해 Aspect 지향 프로그래밍을 지원한다.
+  - AOP모듈은 스프링 애플리케이션에서 Aspect를 개발할 수 있는 기반을 지원한다.
  - ORM:
- - - MyBatis, Hibernate, JPA 등 널리 사용되는 ORM 프레임워크와의 연결고리를 제공한다.
- - - ORM 제품들을 Spring의 기능과 조합해서 사용할 수 있도록 해준다.
+  - MyBatis, Hibernate, JPA 등 널리 사용되는 ORM 프레임워크와의 연결고리를 제공한다.
+  - ORM 제품들을 Spring의 기능과 조합해서 사용할 수 있도록 해준다.
  - DAO:
- - - JDBC에 대한 추상화 게층으로 JDBC 코딩이나 예외처리 하는 부분을 간편화 시켰으며, AOP 모듈을 이용해 트랜잭션 관리 서비스도 제공한다.
+  - JDBC에 대한 추상화 게층으로 JDBC 코딩이나 예외처리 하는 부분을 간편화 시켰으며, AOP 모듈을 이용해 트랜잭션 관리 서비스도 제공한다.
  - WebMVC:
- - - Mdodel, View, Controlller의 약어. 사용자 인터페이스가 애플리케이션 로직과 분리되는 웹 애플리케이션을 만드는 경우에 일반적으로 사용되는 패러다임이다.
+  - Mdodel, View, Controlller의 약어. 사용자 인터페이스가 애플리케이션 로직과 분리되는 웹 애플리케이션을 만드는 경우에 일반적으로 사용되는 패러다임이다.
 
 
 # STS소개 및 제공하는 기능
