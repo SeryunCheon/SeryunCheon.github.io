@@ -1,4 +1,4 @@
 # Allow crawling of all content
-ser-agent: *
+User-agent: *
 Allow: /
 Sitemap: https://seryuncheon.github.io/sitemap.xml
