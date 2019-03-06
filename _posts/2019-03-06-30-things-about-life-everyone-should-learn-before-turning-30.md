@@ -91,13 +91,13 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 ## Success
 ---
 
-1. **You aren’t aiming for perfect. You’re aiming for perfect practice. ** It’s not about tunnel-visioning on the shiny idea of the final product. It’s about treating each step of the way with intention. That’s how you create something worth presenting to the world in the end.
+1. **You aren’t aiming for perfect. You’re aiming for perfect practice.** It’s not about tunnel-visioning on the shiny idea of the final product. It’s about treating each step of the way with intention. That’s how you create something worth presenting to the world in the end.
 
-2. **External rewards are fleeting and unfulfilling. ** They’re fun, sure, but they are not the end goal — not by a long shot. What holds far more value, and defines the quality of your life, is how many people’s lives you impact for the better. However you choose to do that is up to you.
+2. **External rewards are fleeting and unfulfilling.** They’re fun, sure, but they are not the end goal — not by a long shot. What holds far more value, and defines the quality of your life, is how many people’s lives you impact for the better. However you choose to do that is up to you.
 
 3. **Believing your own hype is dangerous.** No matter what you achieve, or how externally successful you get, you have to always remember the kid that started out on his or her path out of pure curiosity. You should never lose that childlike sense of wonder.
 
-4. ==**You are only as good as the last risk you took.**== If you have to rely on your last home run (which may have happened a long time ago) to speak for your current talents, you have fallen stagnant. Success over the long term is about constantly pushing yourself to take the next big risk.
+4. **==You are only as good as the last risk you took.==** If you have to rely on your last home run (which may have happened a long time ago) to speak for your current talents, you have fallen stagnant. Success over the long term is about constantly pushing yourself to take the next big risk.
 
 5. **Somewhere, someone much younger than you is practicing his or her heart out, coming for your spot.** Just remember that. Anyone can reach the top of the mountain. The hard part is staying there.
 
