@@ -4,7 +4,6 @@ title: RESUME
 tags: [about, 천세륜, 이력서, Resume]
 date: 2016-03-21
 comments: false
-
 ---
 
 <p align="center">
